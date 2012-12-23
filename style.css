@@ -1,0 +1,49 @@
+body {
+  /* background-color: #000; */
+  font-family: Times New Roman, Georgia, serif;
+  font-size: 1.2em;
+}
+
+.wrapping_div {
+  word-wrap: break-word;
+  width:650px;
+  margin: 25px 5px 25px 40px;
+}
+
+.n0, #n0 { color: #858585; }
+.n1, #n1 { color: #e0e000; }
+.n2, #n2 { color: #0066ff; }
+.n3, #n3 { color: #009900; }
+.n4, #n4 { color: #000000; }
+.n5, #n5 { color: #804000; }
+.n6, #n6 { color: #008080; }
+.n7, #n7 { color: #ff6633; }
+.n8, #n8 { color: #660099; }
+.n9, #n9 { color: #ff0033; }
+
+.al, .Au, #al, #Au { color: #d00016; }
+.bl, .Bu, #bl, #Bu { color: #1f4979; }
+.cl, .Cu, #cl, #Cu { color: #ffcb43; }
+.dl, .Du, #dl, #Du { color: #413251; }
+.el, .Eu, #el, #Eu { color: #027f21; }
+.fl, .Fu, #fl, #Fu { color: #5f4978; }
+.gl, .Gu, #gl, #Gu { color: #002f33; }
+.hl, .Hu, #hl, #Hu { color: #65340b; }
+.il, .Iu, #il, #Iu { color: #4362a7; }
+.jl, .Ju, #jl, #Ju { color: #013463; }
+.kl, .Ku, #kl, #Ku { color: #f99235; }
+.ll, .Lu, #ll, #Lu { color: #77132f; }
+.ml, .Mu, #ml, #Mu { color: #db9597; }
+.nl, .Nu, #nl, #Nu { color: #300243; }
+.ol, .Ou, #ol, #Ou { color: #cd641f; }
+.pl, .Pu, #pl, #Pu { color: #d46e55; }
+.ql, .Qu, #ql, #Qu { color: #5c4b78; }
+.rl, .Ru, #rl, #Ru { color: #810004; }
+.sl, .Su, #sl, #Su { color: #020200; }
+.tl, .Tu, #tl, #Tu { color: #fecc77; }
+.ul, .Uu, #ul, #Uu { color: #deb200; }
+.vl, .Vu, #vl, #Vu { color: #ff653f; }
+.wl, .Wu, #wl, #Wu { color: #745724; }
+.xl, .Xu, #xl, #Xu { color: #0f2439; }
+.yl, .Yu, #yl, #Yu { color: #e7a800; }
+.zl, .Zu, #zl, #Zu { color: #680361; }
