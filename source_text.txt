@@ -1,4 +1,25 @@
-﻿All the world's a stage,
+﻿ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+0123456789
+
+Vowels:
+AEIOUY
+aeiouy
+
+Frequency:
+ETAOINSRHDLUCMFYWGPBVKXQJZ
+
+pb, PB and vf, VF
+mn, MN
+qkc, QKC and csz, CSZ, and xX which combines both
+rl, RL
+td, TD
+gjy, GJY
+
+In order to make letter recognition faster, similar shapes shouldn't
+be simlar colors: iI, lL, 1, tT, uU
+
+All the world's a stage,
 And all the men and women merely players;
 They have their exits and their entrances,
 And one man in his time plays many parts,

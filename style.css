@@ -1,17 +1,17 @@
 body {
   /* background-color: #000; */
   font-family: Times New Roman, Georgia, serif;
-  font-size: 1.2em;
+  font-size: 2em;
 }
 
 .wrapping_div {
   word-wrap: break-word;
-  width:650px;
+  width:700px;
   margin: 25px 5px 25px 40px;
 }
 
-.n0, #n0 { color: #858585; }
-.n1, #n1 { color: #e0e000; }
+.n0, #n0 { color:#ffffff;text-shadow: #666 0.03em 0.03em 0.09em; }
+.n1, #n1 { color:#ffea00;text-shadow: #ff6633 0.03em 0.03em 0.09em; }
 .n2, #n2 { color: #0066ff; }
 .n3, #n3 { color: #009900; }
 .n4, #n4 { color: #000000; }
@@ -20,30 +20,36 @@ body {
 .n7, #n7 { color: #ff6633; }
 .n8, #n8 { color: #660099; }
 .n9, #n9 { color: #ff0033; }
-
-.al, .Au, #al, #Au { color: #d00016; }
-.bl, .Bu, #bl, #Bu { color: #1f4979; }
-.cl, .Cu, #cl, #Cu { color: #ffcb43; }
-.dl, .Du, #dl, #Du { color: #413251; }
-.el, .Eu, #el, #Eu { color: #027f21; }
+/* 
+yellowish: 
+fdb900
+lighter yellow fecc77
+nice brown-gray a97173
+formerly i a84a5c
+*/
+.al, .Au, #al, #Au { color: #ffcd03; }
+.bl, .Bu, #bl, #Bu { color: #0046c6; }
+.cl, .Cu, #cl, #Cu { color: #66029f; }
+.dl, .Du, #dl, #Du { color: #d00016; }
+.el, .Eu, #el, #Eu { color: #e7a800; }
 .fl, .Fu, #fl, #Fu { color: #5f4978; }
-.gl, .Gu, #gl, #Gu { color: #002f33; }
+.gl, .Gu, #gl, #Gu { color: #037621; }
 .hl, .Hu, #hl, #Hu { color: #65340b; }
-.il, .Iu, #il, #Iu { color: #4362a7; }
-.jl, .Ju, #jl, #Ju { color: #013463; }
-.kl, .Ku, #kl, #Ku { color: #f99235; }
+.il, .Iu, #il, #Iu { color: #f88734; }
+.jl, .Ju, #jl, #Ju { color: #1ab153; }
+.kl, .Ku, #kl, #Ku { color: #9e0da7; }
 .ll, .Lu, #ll, #Lu { color: #77132f; }
-.ml, .Mu, #ml, #Mu { color: #db9597; }
-.nl, .Nu, #nl, #Nu { color: #300243; }
+.ml, .Mu, #ml, #Mu { color: #723305; }
+.nl, .Nu, #nl, #Nu { color: #5c4b78; }
 .ol, .Ou, #ol, #Ou { color: #cd641f; }
-.pl, .Pu, #pl, #Pu { color: #d46e55; }
-.ql, .Qu, #ql, #Qu { color: #5c4b78; }
-.rl, .Ru, #rl, #Ru { color: #810004; }
-.sl, .Su, #sl, #Su { color: #020200; }
-.tl, .Tu, #tl, #Tu { color: #fecc77; }
-.ul, .Uu, #ul, #Uu { color: #deb200; }
-.vl, .Vu, #vl, #Vu { color: #ff653f; }
+.pl, .Pu, #pl, #Pu { color: #4362a7; }
+.ql, .Qu, #ql, #Qu { color: #ae0253; }
+.rl, .Ru, #rl, #Ru { color: #943b3d; }
+.sl, .Su, #sl, #Su { color: #074664; }
+.tl, .Tu, #tl, #Tu { color: #f10017; }
+.ul, .Uu, #ul, #Uu { color: #AD7460; }
+.vl, .Vu, #vl, #Vu { color: #1f4979; }
 .wl, .Wu, #wl, #Wu { color: #745724; }
-.xl, .Xu, #xl, #Xu { color: #0f2439; }
-.yl, .Yu, #yl, #Yu { color: #e7a800; }
-.zl, .Zu, #zl, #Zu { color: #680361; }
+.xl, .Xu, #xl, #Xu { color: #070c7c; }
+.yl, .Yu, #yl, #Yu { color: #077bbd; }
+.zl, .Zu, #zl, #Zu { color: #d4308d; }
